@@ -1,0 +1,27 @@
+{
+  "cacheItemsMap": {
+    "hello.mdx": {
+      "document": {
+        "title": "Hello Mdx",
+        "author": "John Doe",
+        "body": {
+          "raw": "\r\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\r\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\r\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\r\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\r\npariatur.\r\n\r\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\r\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\r\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\r\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\r\nlabore exercitation irure laborum.\r\n",
+          "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum\r\nconsequat enim id excepteur consequat nostrud esse esse fugiat dolore.\r\nReprehenderit occaecat exercitation non cupidatat in eiusmod laborum ex eu\r\nfugiat aute culpa pariatur. Irure elit proident consequat veniam minim ipsum ex\r\npariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\r\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\r\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\r\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\r\nlabore exercitation irure laborum.</p>"
+        },
+        "_id": "hello.mdx",
+        "_raw": {
+          "sourceFilePath": "hello.mdx",
+          "sourceFileName": "hello.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "hello"
+        },
+        "type": "Article",
+        "url": "/article/hello"
+      },
+      "documentHash": "1683390438703",
+      "hasWarnings": false,
+      "documentTypeName": "Article"
+    }
+  }
+}
